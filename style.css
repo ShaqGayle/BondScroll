@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: black;
+	height: 4000px;
+}
+
+.circle {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	background-color: white;
+	position: absolute;
+	top: 50%;
+	margin-top: -50px;
+}
+
+#sticky {
+	top: 1500px;
+	margin-top: -50px;
+}
